@@ -1,4 +1,6 @@
-Olá, esse projeto foi criado com intuito de aprender a utilizar o Git
-Isso é uma alteração
+Olá, esse projeto foi criado com intuito de aprender a utilizar o Git e postas meus códigos.
+
+
+ Isso é uma alteração
 
 
